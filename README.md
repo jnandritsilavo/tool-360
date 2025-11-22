@@ -336,16 +336,6 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 📧 Contact
-
-**Nom du projet** : 360° Feedback Manager
-
-**Votre Nom** - [@votretwitter](https://twitter.com/votretwitter) - votre.email@example.com
-
-**Lien du projet** : [https://github.com/votre-username/feedback360](https://github.com/votre-username/feedback360)
-
----
-
 ## 🌟 Remerciements
 
 - Inspiré par les meilleures pratiques RH en matière d'évaluation 360°
